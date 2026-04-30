@@ -1,0 +1,43 @@
+asttokens==3.0.1
+comm==0.2.3
+contourpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_contourpy_1769155975/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_cycler_1764466758/work
+debugpy==1.8.20
+decorator==5.2.1
+executing==2.2.1
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1776708057478/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1738273805233/work
+ipykernel==7.2.0
+ipython==9.13.0
+ipython_pygments_lexers==1.1.1
+jedi==0.19.2
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_kiwisolver_1773067041/work
+matplotlib==3.10.9
+matplotlib-inline==0.2.1
+munkres==1.1.4
+nest-asyncio==1.6.0
+numpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_numpy_1773839224/work/dist/numpy-2.4.3-cp311-cp311-linux_x86_64.whl#sha256=07ce628021dfd427015f36c6497941b9d6af20263c7e5caa4d6afa89b83686a6
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1777103621/work
+parso==0.8.6
+pexpect==4.9.0
+pillow @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pillow_1775060059/work
+platformdirs==4.9.6
+prompt_toolkit==3.0.52
+psutil==7.2.2
+ptyprocess==0.7.0
+pure_eval==0.2.3
+Pygments==2.20.0
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pyparsing_1769003998/work
+PySide6==6.11.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+pyzmq==27.1.0
+shiboken6==6.11.0
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+stack-data==0.6.3
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1774357898264/work
+traitlets==5.14.3
+typing_extensions==4.15.0
+unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1770908962415/work
+wcwidth==0.6.0
